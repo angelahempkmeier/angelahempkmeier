@@ -2,6 +2,8 @@
 #### Welcome!
 
 👩🏻‍💻 I'm a physics in career transition to IT.
+👩🏻‍🚀 I love to study, i'm very interessed, dedicated and curious person. I love undestanding how all sorts of things work. And I'm very excited about technology, because I love to study, but most of all, I love putting what I've learned into practice. :)
+
 
 <div>
   <a href="https://github.com/aggsdp">
