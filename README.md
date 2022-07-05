@@ -2,7 +2,7 @@
 #### Welcome!
 
 👩🏻‍💻 I'm a physics in career transition to IT.
-👩🏻‍🚀 I love learning, i'm very interessed, dedicated and curious person. I love undestanding how all sorts of things work. And I'm very excited about technology, because I love to study, but most of all, I love putting what I've learned into practice. :)
+👩🏻‍🚀 I love to learn, i'm very interessed, dedicated and curious person. I'm passionate about problem solving and I really like undestanding how all sorts of things work. And I'm very excited about technology, because I love to study, but most of all, I love putting what I've learned into practice. :)
 
 
 <div>
