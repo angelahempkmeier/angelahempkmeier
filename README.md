@@ -1,7 +1,7 @@
 ### Hey you! I'm Angie! 👋
 #### Welcome!
 
-👩🏻‍💻 I'm a physics and recently I made a career transition to IT. Currently I'm a backend software engineer on a brazilian company that works with automation and process management. <br>
+👩🏻‍💻 I'm a physics and recently I made a career transition to IT. Currently I'm a backend software engineer at Avanade, a join venture between Microsoft and Accenture. <br>
 👩🏻‍🚀 I love to learn, i'm very interessed, dedicated and curious person. I'm passionate about problem solving and I really like undestanding how all sorts of things work. And I'm very excited about technology, because I love to study, but most of all, I love putting what I've learned into practice. :)
  
 #### It is important...
